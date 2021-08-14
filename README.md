@@ -1,0 +1,2 @@
+# patama-laengsanam
+Reidar sivertsen
